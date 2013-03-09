@@ -27,13 +27,14 @@
     "url": "https://github.com/mikefrey/node-impact"
   },
   "dependencies": {
-    "express": ">= 3.x.x",
-    "glob": ">= 3.x.x",
-    "jade": ">= 0.28.x"
+    "glob": ">= 3.x.x"
   },
   "engines": {
     "node": ">= 0.8",
     "npm": ">= 1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "express": ">= 3.x.x",
+    "jade": ">= 0.28.x"
+  }
 }
